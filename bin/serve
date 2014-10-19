@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+if [ `python --version | sed -nE 's/Python (.)..../\1/p'` -eq 3 ]; then
+    python -m http.server  # for 3.x
+else
+    python -m SimpleHTTPServer  # for 2.x
+fi
