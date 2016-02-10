@@ -4,6 +4,12 @@
         width: 1199px;
     }
 }
+@media all and (max-width: 1199px) {
+    #content {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
 
 h3 {
     text-align: center;
