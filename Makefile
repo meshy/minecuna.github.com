@@ -10,4 +10,4 @@ deploy:
 	git push origin master
 
 run:
-	./bin/serve
+	python3 -m http.server
