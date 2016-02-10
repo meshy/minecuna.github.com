@@ -7,3 +7,9 @@ The Minecuna website.
 Run in your favourite terminal:
 
     $ make run
+
+
+### Notes
+Logo made with `http://textcraft.net/`
+
+Avatars rendered by `https://crafatar.com/`
