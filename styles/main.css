@@ -1,0 +1,18 @@
+@media all and (min-width: 1200px) {
+    #content {
+        margin: 0 auto;
+        width: 1199px;
+    }
+}
+
+.fore-father h3 {
+    text-align: center;
+}
+.fore-father .intro {
+    font-style: italic;
+    text-align: center;
+}
+
+img {
+    width: 80%;
+}
